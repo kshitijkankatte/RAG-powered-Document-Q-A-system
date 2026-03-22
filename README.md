@@ -1,6 +1,8 @@
 # RAG-powered-Document-Q-A-system
 A agent which uses RAG to get the precise answer you need to know!! No more hallucinations. 
 
+Link to my notion - https://www.notion.so/RAG-powered-Document-Q-A-system-32a6f987f28580119fadeb162d52bbd3?source=copy_link
+
  HEAD
 # 🧠 DocMind — RAG-Powered Document Q&A System
 
